@@ -1,0 +1,16 @@
+# Python virtual environments
+**/venv/
+**/__pycache__/
+
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.idea/
+**/.vscode/
+
+# Docker compose overrides
+docker-compose.override.yml
+
+# OS files
+.DS_Store
